@@ -1,4 +1,5 @@
-# Grocery_Store_Management_SQL
+# A SQL-based Grocery Store Management System with ER diagram, sample data, queries, and insights for retail analytics.
+#sql#Database#MySQL#Data
 “SQL Project for Grocery Store Management System”.
 
 Overview :
